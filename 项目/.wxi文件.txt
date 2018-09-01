@@ -1,0 +1,4 @@
+.wxs是WiX的源文件扩展名。
+.wxs文件以类XML文件的格式来指定了要构造Windows Installer安装数据包.msi文件所需的信息。
+
+链接：https://www.cnblogs.com/lienhua34/archive/2012/10/15/2723656.html

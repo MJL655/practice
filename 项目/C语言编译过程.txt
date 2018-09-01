@@ -1,0 +1,4 @@
+1、先将#define 、#ifdefine 等先预编译编译去除，除了#pragma编译器指令
+2、将编译将文件转化为二进制文件
+3、对二进制文件与标准库进行链接
+https://www.cnblogs.com/wuyouxiaocai/p/5701088.html

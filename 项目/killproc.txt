@@ -1,0 +1,8 @@
+linux的functions之killproc函数
+
+# 该函数的作用是关闭进程的.
+# 用法：
+# killproc [-p pidfile] [-d delay] <program> [-signal]
+# -p:  指定进程的pid文件，一般在/var/run/xxx.pid
+# -d:  指定延迟多长时间就强度关闭进程
+# -signal: 关闭进程的信号

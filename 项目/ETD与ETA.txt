@@ -1,0 +1,3 @@
+ETD是Estimated Time of Departure 的首字母简称，意思是预计离开时间。
+
+ETA是Estimated Time of Arrival的首字母简称，意思为预计到达时间。
